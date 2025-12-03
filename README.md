@@ -1,2 +1,3 @@
-# Python Git e GitHub
+# Python usando Git e GitHub
 
+Treino de Git e GitHub com Python!
